@@ -50,9 +50,9 @@ Ingeniero en Mecatrónica con más de 4 años de experiencia en **desarrollo de 
 
 ## 🎓 Educación
 
-- **Ingeniero en Mecatrónica** – Instituto Técnico Central (2019)  
-- **Tecnólogo en Automatización Industrial** – ITC (2018)  
-- **Técnico Profesional en Electrónica Industrial** – ITC (2018)  
+- **Ingeniero en Mecatrónica** – Escuela Tecnologica Instituto Técnico Central (2022)  
+- **Tecnólogo en Automatización Industrial** – Escuela Tecnologica Instituto Técnico Central  (2019)  
+- **Técnico Profesional en Electrónica Industrial** – Escuela Tecnologica Instituto Técnico Central  (2018)  
 
 ---
 
