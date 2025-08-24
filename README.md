@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<!-- Encabezado bonito -->
+<h1 align="center">¡Hola! Soy <TU NOMBRE> 👋</h1>
+<p align="center">
+  Desarrollador Backend (C#/.NET) — 3 años de experiencia
+</p>
+
+---
+
 <!--
 **mahc1999/mahc1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
