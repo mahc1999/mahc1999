@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!-- Encabezado bonito -->
 <h1 align="center">¡Hola! Soy Miguel Angel Hernandez Casas 👋</h1>
  
  **Full Stack Developer | Ingeniero en Mecatrónica | Backend & SCADA Specialist**
