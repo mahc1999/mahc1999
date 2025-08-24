@@ -2,10 +2,9 @@
 
 <!-- Encabezado bonito -->
 <h1 align="center">¡Hola! Soy Miguel Angel Hernandez Casas 👋</h1>
-**Full Stack Developer | Ingeniero en Mecatrónica | Backend & SCADA Specialist**
-<p align="center">
-  Desarrollador FullStack (C#/.NET/React JS/Node Js/ Java) — 3 años de experiencia
-</p>
+
+  **Full Stack Developer | Ingeniero en Mecatrónica | Backend & SCADA Specialist**
+
 
 ---
 
